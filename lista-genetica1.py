@@ -1,4 +1,4 @@
-#lista de exerciocios 2 da materia de ambientes de computacao  do programa de pos graduacao em bioinformatica 
+#lista de exercicios 2 da materia de ambientes de computacao  do programa de pos graduacao em bioinformatica 
 
 # 1. O TNF alfa é uma citocina pró inflamatória capaz de provocar a apoptose (morte) de células tumorais. Dada a sua sequência de aminoácidos:
 # VRSSSRTPSDKPVAHVVANPQAEGQLQWLNRRANALLANGVELRDNQLVVPSEGLYLIYSQVLFKGQGCPSTHVLLTHTISRIAVSYQTKVNLLSAIKSPCQRETPEGAEAKPWYEPIYLGGVFQLEKGDRLSAEINRPDYLLFAESGQVYFGIIAL
